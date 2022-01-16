@@ -50,6 +50,7 @@ class _ControlePrincipalPage extends State<ControlePrincipalPage> {
       print('Connected to device');
       connection = _connection;
       setState(() {
+        
         isConnecting = false;
         isDisconnecting = false;
       });
