@@ -5,4 +5,5 @@ In this project you'll be to send simple caracters to bluetooth module (HC-06 or
 
 ## References
 https://pub.dev/packages/flutter_bluetooth_serial
+
 https://pub.dev/packages/flutter_speech
